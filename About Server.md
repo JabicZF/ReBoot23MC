@@ -11,6 +11,16 @@ The Server Port (for Bedrock) is `25648`
 
 There's no real Rules, just be nice, and respect other people, other people's builds, belongings, etc.
 
+--Amendment 1--
+
+There is now TWO real Rules:
+
+1. Replant Trees if you dig them (unless you're clearing an area)
+   
+2. DO NOT TOUCH THE HOLY BIRD
+
+      This is not my rule, this is the will of the holy bird
+
 ## Changes
 
 There are a few changes from Vanilla Minecraft on the server
