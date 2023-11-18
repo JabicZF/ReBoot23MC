@@ -21,6 +21,12 @@ There is now TWO real Rules:
 
       This is not my rule, this is the will of the holy bird
 
+   --Amendment 2--
+   
+There is ONE MORE real Rule:
+
+4. We don't like the player with the username `Raindev` UUID `1df2139f-e0ca-4882-8185-9426839f2cc5` NameMC Page `https://namemc.com/profile/Raindev.2`
+
 ## Changes
 
 There are a few changes from Vanilla Minecraft on the server
